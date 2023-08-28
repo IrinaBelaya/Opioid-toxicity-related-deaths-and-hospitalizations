@@ -8,8 +8,8 @@ Dataset for the project was collected from the data repository of the federal go
 
 
 ## Source Code
-[
-Data Management of Opioid toxicity-related deaths and hospitalizations](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8044888775324931/3765691144116402/5854611345732810/latest.html)
+Access the Databricks notebook:
+[Data Management of Opioid toxicity-related deaths and hospitalizations](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8044888775324931/3765691144116402/5854611345732810/latest.html)
 
 ## Summary
 
