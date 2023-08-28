@@ -26,4 +26,4 @@ Logistic regression models the probability of an event (death outcome of opioid/
 The Random Forest algorithm constructs multiple samples of the training dataset, makes a prediction for each sample, and averages out those predictions to get the most accurate estimate of the output value. Random Forest algorithms can be used on both continuous and binary data.
 
 
-**Based on the accuracy score results in each model, I would suggest using the Random Forest model for further analysis of opioid/stimulant toxicity.**
+**Based on the accuracy score results of each model, I would suggest using the Random Forest model for further analysis of opioid/stimulant toxicity.**
