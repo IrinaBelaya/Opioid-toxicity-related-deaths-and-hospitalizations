@@ -2,11 +2,14 @@
 
 ## Dataset
 
-Dataset for the project was collected from the data repository of the federal government of Canada: [Opioid- and Stimulant-related Harms in Canada](https://health-infobase.canada.ca/substance-related-harms/opioids-stimulants/technical-notes.) 
+Dataset for the project was collected from the data repository of the federal government of Canada: 
+
+[Opioid- and Stimulant-related Harms in Canada](https://health-infobase.canada.ca/substance-related-harms/opioids-stimulants/technical-notes.) 
 
 
 ## Source Code
 Access the Databricks notebook:
+
 [Data Management of Opioid toxicity-related deaths and hospitalizations](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8044888775324931/3765691144116402/5854611345732810/latest.html)
 
 ## Summary
